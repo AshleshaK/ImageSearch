@@ -19,7 +19,7 @@
 		0422DB5A275B9166009EA930 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0422DB59275B9166009EA930 /* FirstViewController.swift */; };
 		0422DB5F275B91AA009EA930 /* ModalClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0422DB5E275B91AA009EA930 /* ModalClass.swift */; };
 		0422DB64275BA663009EA930 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0422DB63275BA663009EA930 /* CollectionViewCell.swift */; };
-		7C655636284FA1AA00526C9A /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C655635284FA1AA00526C9A /* NewViewController.swift */; };
+		7CCF03F8284FA344008746A5 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCF03F7284FA344008746A5 /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,7 +58,7 @@
 		0422DB59275B9166009EA930 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		0422DB5E275B91AA009EA930 /* ModalClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalClass.swift; sourceTree = "<group>"; };
 		0422DB63275BA663009EA930 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
-		7C655635284FA1AA00526C9A /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
+		7CCF03F7284FA344008746A5 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,7 +129,7 @@
 				0422DB59275B9166009EA930 /* FirstViewController.swift */,
 				0422DB5E275B91AA009EA930 /* ModalClass.swift */,
 				0422DB63275BA663009EA930 /* CollectionViewCell.swift */,
-				7C655635284FA1AA00526C9A /* NewViewController.swift */,
+				7CCF03F7284FA344008746A5 /* NewViewController.swift */,
 			);
 			path = ImageSearch;
 			sourceTree = "<group>";
@@ -284,7 +284,7 @@
 			files = (
 				0422DB23275B9116009EA930 /* ImageSearch.xcdatamodeld in Sources */,
 				0422DB19275B9116009EA930 /* AppDelegate.swift in Sources */,
-				7C655636284FA1AA00526C9A /* NewViewController.swift in Sources */,
+				7CCF03F8284FA344008746A5 /* NewViewController.swift in Sources */,
 				0422DB64275BA663009EA930 /* CollectionViewCell.swift in Sources */,
 				0422DB1B275B9116009EA930 /* SceneDelegate.swift in Sources */,
 				0422DB5A275B9166009EA930 /* FirstViewController.swift in Sources */,
