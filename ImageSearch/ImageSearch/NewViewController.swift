@@ -14,7 +14,7 @@ class NewViewController: UIViewController {
 
         // Do any additional setup after loading the view.
     }
-    var name = "Ashlesha"
+    
 
     /*
     // MARK: - Navigation
